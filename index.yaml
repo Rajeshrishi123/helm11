@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  raj:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-04-01T10:04:36.862496289Z"
+    description: A Helm chart for Kubernetes
+    digest: 1b62b93a9fb99ef72abddf33cd76cbea4ef1dc88ed0578b8640220613af577ee
+    name: raj
+    type: application
+    urls:
+    - raj-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-04-01T10:04:36.862044844Z"
